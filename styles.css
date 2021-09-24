@@ -1,0 +1,74 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: white;
+}
+
+.rectanguloinicial {
+    background: white;
+    width: 800px;
+    height: 500px;
+}
+
+.espanta {
+    position: relative;
+    width: 500px;
+    height: 600px;
+    top: 100px;
+    left: 100px;
+    border: 2px auto black;
+}
+
+article {
+    color: black;
+    margin-top: 15px;
+    padding-bottom: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+article h2 {
+    color: whitesmoke;
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
+
+article p {
+    font-size: 150%;
+    font-family: Eras Light ITC;
+}
+
+article h1 {
+    font-size: 60px;
+    font-family: Bahnschrift;
+}
+
+.textsuperior {
+    position: relative;
+    background: white;
+    width: 600px;
+    height: 100px;
+    left: 650px;
+    top: -500px;
+}
+
+.textcentro {
+    position: relative;
+    background: white;
+    width: 350px;
+    height: 100px;
+    left: 650px;
+    top: -380px;
+}
+
+.textinferior {
+    position: relative;
+    background: black;
+    width: 250px;
+    height: 60px;
+    left: 650px;
+    top: -300px;
+}
